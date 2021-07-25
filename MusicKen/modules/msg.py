@@ -4,7 +4,7 @@ class Messages():
       HELP_MSG = [
         ".",
 f"""
-**👋🏻 Hai Selamat Datang Kembali Di [{PROJECT_NAME}](https://telegra.ph/file/ed136c19e7f6afddb4912.jpg)
+**👋🏻 Hai Selamat Datang Kembali Di [{PROJECT_NAME}](https://telegra.ph/file/2edffd441802313ea985f.jpg)
 
 ⚪️ {PROJECT_NAME} Dapat Memutar Musik Di Obrolan Suara Grup Anda Serta Obrolan Suara Saluran
 
@@ -90,7 +90,7 @@ Saya memiliki banyak fitur seperti :
 ❒‌ Mencari link youtube
 ──────────❆✦❆──────────
 ━─━───────༺༻───────━─━
-📮 Dikelola oleh : @{owner}
+📮 Dikelola oleh : @{OWNER}
 ━─━───────༺༻───────━─━
 ❇️ Klik tombol bantuan untuk informasi lebih lanjut.
 """
