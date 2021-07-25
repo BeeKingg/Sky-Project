@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./etc/Music-Ken.gif" alt="Music-Ken Logo"width="400" height="60">
+  <img src="Music-Ken Logo"width="400" height="60">
 </p>
 <p align="center"><img src="https://2.bp.blogspot.com/-eBu3-f3vzW0/V3E8UnYXsfI/AAAAAAAADHI/lJrPAoLSE70aO0F3W9fruZ8O-qJY76MSwCLcB/s1600/gambar-gerak-gif-chip-and-dale-terbaru.gif" style="width:100%"></p>
 <p align="center">
@@ -46,7 +46,7 @@ ganti aja yang di youtube.py play.py song.py dan channelplay.py yang awalnya
 
 ### 💜 HEROKU
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kenkansaja/Music-Ken"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/BeeKingg/Sky-Project"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
 
 ## VIA REPLIT
 Klik tombol dibawah untuk mengambil Pyrogram String Session Atau pilih p bukan t
