@@ -80,18 +80,5 @@ f"""
 
 - /admincache: Memperbarui Info Admin Grup Anda. Coba Jika Bot Tidak Mengenali Admin
 - /userbotjoin: Undang @{ASSISTANT_NAME} Userbot Ke Grup Anda
-""",
-f"""👋🏻 Hallo, saya adalah [{PROJECT_NAME}] yang dapat memutar music dengan mudah di voice call group maupun channel.
-Saya memiliki banyak fitur seperti : 
-──────────❆✦❆──────────
-❒‌ Memutar lagu di group 
-❒‌ Memutar lagu di channel
-❒‌ Mendownload lagu
-❒‌ Mencari link youtube
-──────────❆✦❆──────────
-━─━───────༺༻───────━─━
-📮 Dikelola oleh : @{OWNER}
-━─━───────༺༻───────━─━
-❇️ Klik tombol bantuan untuk informasi lebih lanjut.
 """
-]
+   ]
