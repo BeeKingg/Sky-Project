@@ -25,7 +25,8 @@ Saya memiliki banyak fitur seperti :
 ━─━───────༺༻───────━─━
 📮 Dikelola oleh : @{OWNER}
 ━─━───────༺༻───────━─━
-❇️ Klik tombol bantuan untuk informasi lebih lanjut.""",
+❇️ Klik tombol bantuan untuk informasi lebih lanjut.
+""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
