@@ -13,8 +13,7 @@ logging.basicConfig(level=logging.INFO)
     & ~ filters.edited 
 )
 async def start_(client: Client, message: Message):
-    await message.reply_sticker("CAACAgUAAxkBAAFF-KFg-jaEvlhu_kNknYQjxsuyDvp--AACjAMAAtpWSVeocCICILIfRSAE")
-    await message.reply_text(
+        await message.reply_text(
         f"""👋🏻 Hallo, saya adalah [{PROJECT_NAME}] yang dapat memutar music dengan mudah di voice call group maupun channel.
 Saya memiliki banyak fitur seperti : 
 ──────────❆✦❆──────────
